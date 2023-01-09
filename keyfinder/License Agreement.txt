@@ -1,0 +1,17 @@
+License Agreement 
+for SterJo Key Finder v.2.0
+
+
+License
+
+This software is released as freeware for personal or commercial use, but it may not be sold or be included in a product or package which intends to receive benefits through the inclusion of this software. SterJo Software allows and encourages all web sites, magazines, on-line services, CD/DVD vendors, and end-users to freely distribute SterJo Key Finder. If you wish to distribute this software, you may obtain the most recent version from https://www.sterjosoft.com
+ 
+
+Disclaimer
+
+This software and the accompanying files are distributed "as is" and without any warranties whether expressed or implied. No responsibilities for possible damages or even functionality can be taken. The user must assume the entire risk of using this program.
+
+
+SterJo Key Finder
+Copyright (c) SterJo Software. All rights reserved.
+https://www.sterjosoft.com
