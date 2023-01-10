@@ -10,7 +10,9 @@ https://sterjosoft.com/key-finder.html
                 
                 
                   Conflicting ports of mySQL and XAMPP      
-                https://stackoverflow.com/questions/32173242/conflicting-ports-of-mysql-and-xampp#:~:text=In%20XAMPP%20Control%20Panel%20Click%20on%20Config%20%3E,Server.%20You%20might%20also%20face%20issue%20with%20phpMyAdmin.
+                https://stackoverflow.com/questions/32173242/conflicting-ports-of-mysql-and-xampp#:~:text=In%20XAMPP%20Control%20Panel%20Click%20on%20Config%20%3E,Server.%20You%20might%20also%20face%20issue%20with%20phpMyAdmin.   
+                    config php    
+                        https://stackoverflow.com/questions/29915514/how-to-generate-env-file-for-laravel   
 
 
 https://y.com.sb/watch?v=15NM2kRJNiY      
