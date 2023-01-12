@@ -17,3 +17,8 @@ https://sterjosoft.com/key-finder.html
 
 https://y.com.sb/watch?v=15NM2kRJNiY      
 https://y.com.sb/watch?v=CBWNRA2RGSU      
+
+Mailjet Api Email Sender      
+https://invidious.snopyta.org/watch?v=z0yA5Aw2Rbs     
+https://artisansweb.net/send-email-using-mailjetalternative-to-gmail-smtp-server-in-php/      
+
