@@ -22,3 +22,8 @@ Mailjet Api Email Sender
 https://invidious.snopyta.org/watch?v=z0yA5Aw2Rbs     
 https://artisansweb.net/send-email-using-mailjetalternative-to-gmail-smtp-server-in-php/      
 
+  PHP Mailer      
+https://mailtrap.io/blog/phpmailer/     
+https://mailtrap.io/blog/phpmailer-gmail/     
+https://mailtrap.io/sending/domains/9ae07cfd-92c2-4db7-ba86-8ab2c3d33aa5      
+https://api-docs.mailtrap.io/     
